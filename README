@@ -4,4 +4,6 @@ then print it and they give you all information about exercise you do
 Log into Sheety with your Google Account 
 in your project page, click on "New Project" and create a new project in Sheety with the name "Workout Tracking" and paste in the URL of your own "My Workouts" Google Sheet.
 Click on the workouts API endpoint and enable GET and POST.
+i add my name and password and by using Basic Authentication or "Bearer Token" to secure my sheety endpoint
+at the end i use os module to secure my Authentication and information and this call enviroment variable
 
